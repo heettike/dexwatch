@@ -1,6 +1,7 @@
 # 🧠 dexwatch
 
-copy a contract address. open's the tokens dexscreener. that’s it.
+copy a contract address from base/solana -> open's the tokens dexscreener. that’s it.
+
 
 ---
 
