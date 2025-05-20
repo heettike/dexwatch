@@ -27,9 +27,8 @@ you’ll see your browser open dexscreener every time you copy a base or solana 
 ## how to install (1 line)
 
 paste this in your terminal:
+curl -s https://raw.githubusercontent.com/heettike/dexwatch/main/install.sh
 
-```bash
-curl -s https://raw.githubusercontent.com/heettike/dexwatch/refs/heads/main/install.sh | bash
 
 --
 # to stop:
